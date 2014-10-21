@@ -45,9 +45,9 @@ public void draw()
     particleOdd.move();
     particleOdd.reset();
 
-    // particleJumbo.show(); 
-    // particleJumbo.move();
-    // particleJumbo.reset();
+    particleJumbo.show(); 
+    particleJumbo.move();
+    particleJumbo.reset();
 }
 
 interface andersonParticles
